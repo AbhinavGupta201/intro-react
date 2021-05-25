@@ -36,6 +36,11 @@ class App extends React.Component {
   }
 
   /*Write an addStudent method here*/
+  addStudent(studentName) {
+    this.setState({
+      students: this.state.students.concat(studentName)
+    });
+  }
 
   addGrade(assignment, student, score) {
     let grades = this.state.grades;
@@ -74,7 +79,7 @@ class App extends React.Component {
           title="Student Roster"
         />
       );
-    }*/
+    } */
 
     /* Uncomment lines below to render grades*/
     /*if (this.state.buttonClicked === "grades") {
