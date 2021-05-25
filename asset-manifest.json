@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AbhinavGupta201/intro-react/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/AbhinavGupta201/intro-react/static/js/main.d4acaebd.chunk.js",
+    "main.js.map": "/AbhinavGupta201/intro-react/static/js/main.d4acaebd.chunk.js.map",
+    "runtime-main.js": "/AbhinavGupta201/intro-react/static/js/runtime-main.27137a5e.js",
+    "runtime-main.js.map": "/AbhinavGupta201/intro-react/static/js/runtime-main.27137a5e.js.map",
+    "static/js/2.bc9bad63.chunk.js": "/AbhinavGupta201/intro-react/static/js/2.bc9bad63.chunk.js",
+    "static/js/2.bc9bad63.chunk.js.map": "/AbhinavGupta201/intro-react/static/js/2.bc9bad63.chunk.js.map",
+    "index.html": "/AbhinavGupta201/intro-react/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/AbhinavGupta201/intro-react/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.bc9bad63.chunk.js.LICENSE.txt": "/AbhinavGupta201/intro-react/static/js/2.bc9bad63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27137a5e.js",
+    "static/js/2.bc9bad63.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.d4acaebd.chunk.js"
+  ]
+}
